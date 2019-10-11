@@ -1,5 +1,7 @@
 module github.com/yawn/ykoath
 
+go 1.13
+
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/ebfe/scard v0.0.0-20190212122703-c3d1b1916a95
